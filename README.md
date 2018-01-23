@@ -3,7 +3,9 @@ Advance Electronic Voting System was made to replace the current voting system t
 
 The System was developed in PHP and JavaScripts and MySql database is used.
 
-System also dan display results graphically after an election.
+After the voting, system can count the results and display results graphically.
 
-You can also view the previous election results.
+You can also view the previous election results and compare them.
+
+Enjoy!!
 
